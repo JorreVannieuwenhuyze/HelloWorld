@@ -1,2 +1,1 @@
-# HelloWorld
-My first Git project
+We are staring
